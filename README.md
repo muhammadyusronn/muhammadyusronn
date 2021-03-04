@@ -56,7 +56,7 @@
 <h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/muhammad-yusron-hartoyo-32a3271b4/">
-		<img src="https://img.shields.io/badge/-M%20Yusron%20Hartoyo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-Muhammad%20Yusron%20Hartoyo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
 	<a href="mailto:muhammadyusron733@gmail.com">
 		<img src="https://img.shields.io/badge/-muhammadyusron733@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
