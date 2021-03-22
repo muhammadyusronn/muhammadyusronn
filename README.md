@@ -38,7 +38,7 @@
 			<td><p align="left">🌐 &nbsp;Framework</p></td>
 			<td> 
 				<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
