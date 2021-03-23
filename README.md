@@ -55,7 +55,7 @@
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadyusronn&theme=vshow_icons=true&include_all_commits=true&count_private=true" />
 		</a>
 </p>
-<h3> Connect with Me </h3>
+<h3 align="center"> Connect with Me </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/muhammad-yusron-hartoyo-32a3271b4/">
 		<img src="https://img.shields.io/badge/-Muhammad%20Yusron%20Hartoyo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
@@ -67,6 +67,6 @@
 		<img src="https://img.shields.io/github/followers/muhammadyusronn?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
-<p>
+<p align="center">
 	<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyusronn&theme=ads-juicy-fresh" alt="adityadees" />
 </p>
