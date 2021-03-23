@@ -68,5 +68,5 @@
 	</a>
 </p>
 <p>
-[trophy](https://github-profile-trophy.vercel.app/?username=muhammadyusronn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+	<img src="https://github-profile-trophy.vercel.app/?username=muhammadyusronn&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/>
+</p
