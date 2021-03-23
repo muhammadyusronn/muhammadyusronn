@@ -67,3 +67,6 @@
 		<img src="https://img.shields.io/github/followers/muhammadyusronn?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyusronn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
