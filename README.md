@@ -68,5 +68,4 @@
 	</a>
 </p>
 <p>
-	<img src="https://github-profile-trophy.vercel.app/?username=muhammadyusronn&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/>
-</p
+	<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyusronn&theme=ads-juicy-fresh" alt="adityadees" />
