@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>&nbsp;
 			<td rowspan="5">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
 			<p align="center">
 				<a href="https://github.com/muhammadyusronn">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusronn&theme=vue&layout=compact" />
@@ -33,12 +34,17 @@
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
 			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></td>
+			<td>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+			</td>
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Framework</p></td>
 			<td> 
 				<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
 			</td>
 		</tr>
 		<tr>
