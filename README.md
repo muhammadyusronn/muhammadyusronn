@@ -20,10 +20,10 @@
 		<tr>
 			<td><p align="left">💻 &nbsp;Language</p></td>
 			<td>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"/>&nbsp;
 			<td rowspan="5">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
 			<p align="center">
 				<a href="https://github.com/muhammadyusronn">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusronn&theme=vue&layout=compact" />
