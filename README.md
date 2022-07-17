@@ -41,8 +41,8 @@
 		<tr>
 			<td><p align="left">🌐 &nbsp;Framework</p></td>
 			<td> 
-				<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+				<img src="https://camo.githubusercontent.com/cb2c772e9224dd5dc0e451cb4dc876e7e0aab84350175de5fe9fc9dd9ae555c6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f636f646569676e697465722e737667" alt="codeigniter" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="max-width: 100%;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
 			</td>
