@@ -36,7 +36,7 @@
 			<td>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/sql-original-wordmark.svg" alt="sql" width="40" height="40" style="max-width: 100%;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="sql" width="40" height="40" style="max-width: 100%;">
 			</td>
 		</tr>
 		<tr>
